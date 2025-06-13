@@ -17,7 +17,7 @@ This project provides an easy-to-use web interface to **summarize lengthy PDF do
 
 | Upload PDF | Set Options | View Summary |
 |------------|-------------|---------------|
-| ![upload](https://via.placeholder.com/200x100) | ![options](https://via.placeholder.com/200x100) | ![summary](https://via.placeholder.com/200x100) |
+| ![upload](https://github.com/rathour-anushka/PDF-Summarizer/blob/main/Screenshot%202025-06-13%20185838.png/200x100) | ![options](https://via.placeholder.com/200x100) | ![summary](https://via.placeholder.com/200x100) |
 
 ---
 
